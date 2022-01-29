@@ -22,5 +22,8 @@ Note: Steps 4 & 5 incorporates 'Human-in-the-loop' approach.
 - Python: Pandas, Jupyter Notebook
 - Dashboard: Power BI / Tableau
 
+# Keywords:
+- automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, machine learning(scope).
+
 
 P.S. Above is a general-purose representation of the overall solution. Due to confidentiality agreement (GDPR), we are unable to share our sponsored project-specific drawings and data. However, please feel to connect at sp794uk@gmail.com to disucss your custom scenarios.
