@@ -1,12 +1,12 @@
-Proof of concept implementation and end-to-end system architecture for automated processing of multi-format-invoice data from 3rd party vendors and customers.
+Proof of concept implementation and end-to-end system architecture for the automated processing of multi-format invoice data from third-party vendors and customers.
 
 # Supported Data Formats: 
 PDF, HTML, Spreadsheets (direct or via API), Image, hard copy etc. formats for text.
-Note: To incorporate data from hard-copy-text in our process, either it should be received in digital format (i.e. JPEG/Pdf etc.) from the source or otherwise be converted in-house to digital format.
+Note: To incorporate data from hard-copy-text into our process, it must either be received in digital format (i.e. JPEG/Pdf, etc.) from the source or converted in-house to digital format.
 
 # Challenges:
-- Inconsistent Invoices: Multiple template versions (i.e. changing identifier-value pair): Must programatically fix in the implimentation using Pandas unless consistent format per vendor is enforced.
-- Supporting both API-driven and traditional manual data collection processes: web app supporting direct data-file upload (Invoices, spreadsheets etc.) via web rather than collecting files over email. This should significantly reduce operational load.
+- Inconsistent Invoices: Multiple template versions (i.e. changing identifier-value pair): Must programatically fix in the implimentation using Pandas, unless a consistent format per vendor is enforced.
+- Supporting both API-driven and traditional manual data collection processes: This should significantly reduce operational load.Instead of collecting files via email, a web app that supports direct data-file upload (invoices, spreadsheets, etc.) via web is proposed. This should significantly reduce operational load.
 
 # Flow:
 1. Web-based (inbound) Data Collection from Vendors and Customers.
@@ -26,4 +26,4 @@ Note: Steps 4 & 5 incorporates 'Human-in-the-loop' approach.
 - automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, machine learning(scope).
 
 
-P.S. Above is a general-purose representation of the overall solution. Due to confidentiality agreement (GDPR), we are unable to share our sponsored project-specific drawings and data. However, please feel to connect at sp794uk@gmail.com to disucss your custom scenarios.
+P.S. Above is a high-level representation of the overall solution. Due to confidentiality agreement (GDPR), we are unable to share our sponsored-project specific drawings and data. However, please feel to connect at sp794uk@gmail.com to disucss your custom scenarios.
