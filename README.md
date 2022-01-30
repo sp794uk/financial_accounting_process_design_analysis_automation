@@ -26,4 +26,4 @@ Note: Steps 4 & 5 incorporates 'Human-in-the-loop' approach.
 - automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, machine learning(scope).
 
 
-P.S. Above is a high-level representation of the overall solution. Due to confidentiality agreement (GDPR), we are unable to share our sponsored-project specific drawings and data. However, please feel to connect at sp794uk@gmail.com to disucss your custom scenarios.
+P.S. Above is a high-level representation of the overall solution. Due to confidentiality requirements (GDPR), we are unfortunately unable to share our sponsored-project specific drawings and data. However, please feel to connect at sp794uk@gmail.com to disucss your custom scenarios.
