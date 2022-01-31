@@ -6,7 +6,7 @@ Note: To incorporate data from hard-copy-text into our process, it must either b
 
 # Challenges:
 - Inconsistent Invoices: Multiple template versions (i.e. changing identifier-value pair): Must programatically fix in the implimentation using Pandas, unless a consistent format per vendor is enforced.
-- Supporting both API-driven and traditional manual data collection processes: This should significantly reduce operational load.Instead of collecting files via email, a web app that supports direct data-file upload (invoices, spreadsheets, etc.) via web is proposed. This should significantly reduce operational load.
+- Supporting both API-driven and traditional manual data collection processes: This should significantly reduce operational load. Instead of collecting files via email, a web app that supports direct data-file upload (invoices, spreadsheets, etc.) via web is proposed. This should significantly reduce operational load.
 
 # Flow:
 1. Web-based (inbound) Data Collection from Vendors and Customers.
