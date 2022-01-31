@@ -19,11 +19,11 @@ Note: Steps 4 & 5 incorporates 'Human-in-the-loop' approach.
 # Tools:
 - *.-to-text conversion APIs: AWS (API) vs. OpenSource Python (*.-to-text) lib
 - AWS: Lambda
-- Python: Pandas, Jupyter Notebook
+- Python: Pandas, Jupyter Notebook, Anaconda
 - Dashboard: Power BI / Tableau
 
 # Keywords:
-- automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, machine learning(scope).
+- automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, data lake, machine learning, document to text.
 
 
 P.S. Above is a high-level representation of the overall solution. Due to confidentiality requirements (GDPR), we are unfortunately unable to share our sponsored-project specific drawings and data. However, please feel to connect at sp794uk@gmail.com to discucss your custom scenarios.
