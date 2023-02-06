@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/sp794uk/financial_accounting_process_design_analysis_automation/blob/main/Images/banner.png "banner image")
 
-Implementation of proof of concept and end-to-end system architecture for automated processing of multi-format invoice data from third-party vendors and customers. If you want to learn more about my overall experience with this project, please feel free to check [here](https://medium.com/@sp794uk/my-digital-transformation-project-ikeep-experience-845f9f6d5a1e).
+Implementation of proof of concept and end-to-end system architecture for automated processing of multi-format invoice data from third-party vendors and customers. To learn more about my overall experience with this project, please feel free to check [here](https://medium.com/@sp794uk/my-digital-transformation-project-ikeep-experience-845f9f6d5a1e).
 
 ## Keywords:
 _automatictextextraction, processautomation, automation, dataanalysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, datalake, machinelearning, documenttotext._
