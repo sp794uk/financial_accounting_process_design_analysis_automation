@@ -1,7 +1,9 @@
 # Financial Accounting Process Re-design, Analysis, & Automation
 
+![alt text](https://github.com/sp794uk/financial_accounting_process_design_analysis_automation/blob/main/Images/banner.png "banner image")
+
 ## Keywords:
-- automatic text extraction, process automation, automated data analysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, data lake, machine learning, document to text.
+_automatictextextraction, processautomation, automation, dataanalysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, datalake, machinelearning, documenttotext._
 
 Proof of concept implementation and end-to-end system architecture for the automated processing of multi-format invoice data from third-party vendors and customers. Unfortunately, we are unable to upload original reports and code 
 
@@ -27,5 +29,5 @@ Note: Inluded ideas for 'Human-in-the-loop' approach.
 - Python: Pandas, Jupyter Notebook, Anaconda
 - Dashboard: Power BI / Tableau
 
-
-**P.S.** We are unable to share our sponsored-project specific design, code, and data due to confidentiality requirements (GDPR). However, please feel free to contact me to discuss your custom scenarios.
+## Note:
+We are unable to share our sponsored-project specific design, code, and data due to confidentiality requirements (GDPR). However, please feel free to contact me to discuss your custom scenarios.
