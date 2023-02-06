@@ -27,4 +27,5 @@ Note: Inluded ideas for 'Human-in-the-loop' approach.
 - Python: Pandas, Jupyter Notebook, Anaconda
 - Dashboard: Power BI / Tableau
 
+
 **P.S.** We are unable to share our sponsored-project specific design, code, and data due to confidentiality requirements (GDPR). However, please feel free to contact me to discuss your custom scenarios.
