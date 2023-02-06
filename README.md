@@ -2,10 +2,10 @@
 
 ![alt text](https://github.com/sp794uk/financial_accounting_process_design_analysis_automation/blob/main/Images/banner.png "banner image")
 
+Proof of concept implementation and end-to-end system architecture for the automated processing of multi-format invoice data from third-party vendors and customers. 
+
 ## Keywords:
 _automatictextextraction, processautomation, automation, dataanalysis, aws, python, pandas, jupyter, powerbi, tableau, dashboard, datalake, machinelearning, documenttotext._
-
-Proof of concept implementation and end-to-end system architecture for the automated processing of multi-format invoice data from third-party vendors and customers. Unfortunately, we are unable to upload original reports and code 
 
 ## Supported Data Formats: 
 PDF, HTML, Spreadsheets (direct & via API), Image, hard copy etc. formats for text.
