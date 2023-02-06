@@ -1,4 +1,4 @@
-# Financial Accounting Process Re-design, Analysis, & Automation
+# Financial Accounting Process Re-Design, Analysis, & Automation
 
 ![alt text](https://github.com/sp794uk/financial_accounting_process_design_analysis_automation/blob/main/Images/banner.png "banner image")
 
